@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# system files
+.DS_Store
+Thumbs.db
+
+# ignore accidental system tracking
+AppData/
+Documents/
+Desktop/
+Downloads/
